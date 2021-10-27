@@ -1,0 +1,8 @@
+apt update
+pkg install git
+pkg install python 
+pkg install figlet
+rm trial.py trial*
+wget -q "https://raw.githubusercontent.com/arulmods/Rxce-Hack/main/.gitignore"
+clear
+python trial.py
